@@ -5,6 +5,6 @@
 # **Overview**
 
 ### **Insel 1**
-- [[Arehn - WEB \|Ahren]]
-	- [[Ratten Königreich - WEB \|Ratten Königreich]]
+- [[- Webseite/Arehn/Stadt - Arehn\|Ahren]]
+	- [[- Webseite/Arehn/Stadt - Ratten Königreich\|Ratten Königreich]]
 - .
